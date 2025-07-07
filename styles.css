@@ -2,4 +2,42 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} 
+
+a{
+    text-decoration: none;
+    color: #5f9341;
+}
+
+#save-el{
+    border: none;
+    border-radius: 12px;
+    background-color: #5f9341;
+    color: white;
+    padding: 6px 12px;
+}
+
+#get-el {
+    border: none;
+    border-radius: 12px;
+    background-color: #5f9341;
+    color: white;
+    padding: 6px 12px;
+}
+
+#delete-el {
+    border: 1px solid;
+    border-color: #5f9341;
+    border-radius: 12px;
+    background-color: white;
+    color: #5f9341;
+    padding: 6px 12px;
+}
+
+#input-el{
+    border-radius: 12px ;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 0;
+    border: 1px #5f9341 solid;
 }
