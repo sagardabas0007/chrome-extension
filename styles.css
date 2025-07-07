@@ -15,6 +15,7 @@ a{
     background-color: #5f9341;
     color: white;
     padding: 6px 12px;
+    cursor: pointer;
 }
 
 #get-el {
@@ -23,6 +24,7 @@ a{
     background-color: #5f9341;
     color: white;
     padding: 6px 12px;
+    cursor: pointer;
 }
 
 #delete-el {
@@ -32,6 +34,7 @@ a{
     background-color: white;
     color: #5f9341;
     padding: 6px 12px;
+    cursor: pointer;
 }
 
 #input-el{
@@ -40,4 +43,8 @@ a{
     margin: 10px 0;
     padding: 10px 0;
     border: 1px #5f9341 solid;
+}
+
+li{
+    padding: 10px 10px;
 }
